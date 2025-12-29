@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Landing my first full-time SWE role post-graduation<br>👯 I'm looking to collaborate on Open source projects in security, backend systems, or anything Go/Python<br>🤝 I'm looking for help with Connecting with engineers in cybersecurity or blockchain space<br>🌱 I'm currently learning Threat intelligence and advanced reverse engineering<br>💬 Ask me about Blockchain, malware analysis, or surviving grad school at UF 🐊<br>⚡ Fun fact I'm a car enthusiast who can talk about engines as passionately as I talk about code<br>
+I'm looking to collaborate on Open source projects in security, backend systems, or anything Go/Python<br>🤝 I'm looking for help with Connecting with engineers in cybersecurity or blockchain space<br>🌱 I'm currently learning Threat intelligence and advanced reverse engineering<br>💬 Ask me about Blockchain, malware analysis, or surviving grad school at UF 🐊<br>⚡ Fun fact I'm a car enthusiast who can talk about engines as passionately as I talk about code<br>
 
 
 ## 🌐 Socials:
