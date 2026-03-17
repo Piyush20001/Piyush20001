@@ -26,7 +26,7 @@ I'm a software engineer who builds things at the intersection of **security**, *
 - 📱 **Team Lead @ FeedFL** — Leading a 6-dev team building a nonprofit food provider discovery app. AWS Amplify, AppSync GraphQL, Aurora PostgreSQL, Flutter.
 - 🏢 **Previously @ KPMG Global** — Optimized Hyperledger Fabric blockchain infrastructure.
 
-MS Computer Science from University of Florida (Dec 2025) 
+MS Computer Science from University of Florida (Dec 2025) • B.Tech from JIIT
 
 > I reverse-engineer malware for fun, build full-stack apps for work, and argue about BMW vs Mustang on weekends. 🏎️
 
@@ -46,10 +46,26 @@ MS Computer Science from University of Florida (Dec 2025)
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,flask,django,nodejs,react,flutter&theme=dark" /></a>
 </p>
 
-**Data & ML**
+**AI / ML & Agents**
 <br/>
 <p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mongodb,sqlite,firebase,jenkins,git,linux&theme=dark" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" /></a>
+</p>
+<p align="left">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+<img src="https://img.shields.io/badge/Qwen-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGLM-2563EB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+`Agentic AI` `LangChain` `RAG Pipelines` `XGBoost` `DistilBERT` `NLP` `Ollama` `HuggingFace` `scikit-learn` `NumPy` `Pandas`
+
+**Databases & DevOps**
+<br/>
+<p align="left">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase,jenkins,git,linux,docker&theme=dark" /></a>
 </p>
 
 **Security & Reversing**
