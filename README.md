@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=100&lines=Hey%2C+I'm+Piyush+%F0%9F%91%8B;Software+Engineer+%7C+Security+Researcher+%7C+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=Hey%2C+I'm+Piyush+%F0%9F%91%8B;Software+Engineer+%7C+Security+Researcher+%7C+Builder" alt="Typing SVG" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=500&lines=Building+FeedFL+%40+UF+%F0%9F%90%8A;Researching+AI+%2B+Biomedical+Informatics+%40+OHSL;Ex-KPMG+Global+%7C+Blockchain+Optimization;Can+talk+engines+as+passionately+as+code+%F0%9F%8F%8E%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=650&lines=Building+FeedFL+%40+UF+%F0%9F%90%8A;Researching+AI+%2B+Biomedical+Informatics+%40+OHSL;Ex-KPMG+Global+%7C+Blockchain+Optimization;Can+talk+engines+as+passionately+as+code+%F0%9F%8F%8E%EF%B8%8F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,7 +26,7 @@ I'm a software engineer who builds things at the intersection of **security**, *
 - 📱 **Team Lead @ FeedFL** — Leading a 6-dev team building a nonprofit food provider discovery app. AWS Amplify, AppSync GraphQL, Aurora PostgreSQL, Flutter.
 - 🏢 **Previously @ KPMG Global** — Optimized Hyperledger Fabric blockchain infrastructure.
 
-MS Computer Science from University of Florida (Dec 2025) • B.Tech from JIIT
+MS Computer Science from University of Florida (Dec 2025) 
 
 > I reverse-engineer malware for fun, build full-stack apps for work.
 
@@ -106,6 +106,15 @@ MS Computer Science from University of Florida (Dec 2025) • B.Tech from JIIT
     <img alt="github-snake" src="https://raw.githubusercontent.com/Piyush20001/Piyush20001/output/github-snake.svg" />
   </picture>
 </div>
+
+<!-- CLAUDE TYPING EFFECT -->
+<div align="center">
+<br/>
+<img src="https://img.shields.io/badge/🟠_Claude-Active-D97757?style=flat-square&labelColor=1a1b27" />
+<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=500&color=D97757&center=true&vCenter=true&width=500&lines=%F0%9F%92%AD+Claude+is+reviewing+Piyush's+profile...;%E2%9C%85+Strong+security+%2B+systems+background+detected;%F0%9F%94%8D+Analyzing+contribution+graph...;%F0%9F%92%A1+Recommendation%3A+Hire+this+guy;%F0%9F%8F%8E%EF%B8%8F+Also+he+has+great+taste+in+cars;%F0%9F%91%80+Still+watching...+scroll+back+up+and+star+something" alt="Claude typing" />
+</div>
+<br/>
 
 <div align="center">
 
