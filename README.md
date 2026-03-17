@@ -1,18 +1,98 @@
-# 💫 About Me:
-I'm looking to collaborate on Open source projects in security, backend systems, or anything Go/Python<br>🤝 I'm looking for help with Connecting with engineers in cybersecurity or blockchain space<br>🌱 I'm currently learning Threat intelligence and advanced reverse engineering<br>💬 Ask me about Blockchain, malware analysis, or surviving grad school at UF 🐊<br>⚡ Fun fact I'm a car enthusiast who can talk about engines as passionately as I talk about code<br>
+<div align="center">
 
+<!-- HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=100&lines=Hey%2C+I'm+Piyush+%F0%9F%91%8B;Software+Engineer+%7C+Security+Researcher+%7C+Builder" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DarkEnvy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-kumar-mishra-a32599111) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushkumardelhi10@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Piyush20001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Piyush20001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush20001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=500&lines=Building+FeedFL+%40+UF+%F0%9F%90%8A;Researching+AI+%2B+Biomedical+Informatics+%40+OHSL;Ex-KPMG+Global+%7C+Blockchain+Optimization;Can+talk+engines+as+passionately+as+code+%F0%9F%8F%8E%EF%B8%8F)](https://git.io/typing-svg)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://linkedin.com/in/piyush-kumar-mishra-a32599111"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:piyushkumardelhi10@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://discord.gg/DarkEnvy"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Piyush20001&style=flat-square&color=58A6FF" alt="Profile views" />
+
+</div>
+
+---
+
+### 🧠 About
+
+I'm a software engineer who builds things at the intersection of **security**, **distributed systems**, and **AI**. Currently splitting my time between two roles:
+
+- 🔬 **Data Researcher @ OHSL** — Working on [TELESYNERGY](https://github.com/Piyush20001), an AI-powered telemedicine system. NLP, biomedical informatics, and digital health ecosystems.
+- 📱 **Team Lead @ FeedFL** — Leading a 6-dev team building a nonprofit food provider discovery app. AWS Amplify, AppSync GraphQL, Aurora PostgreSQL, Flutter. Sponsored by Epoca International through UF's Business Analytics & AI Center.
+- 🏢 **Previously @ KPMG Global** — Optimized Hyperledger Fabric blockchain infrastructure.
+
+MS Computer Science from University of Florida (Dec 2025) • B.Tech from JIIT
+
+> I reverse-engineer malware for fun, build full-stack apps for work, and argue about BMW vs Mustang on weekends. 🏎️
+
+---
+
+### ⚙️ Tech Stack
+
+**Languages**
+<br/>
+<p align="left">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,cpp,c,solidity,php&theme=dark" /></a>
+</p>
+
+**Backend & Infrastructure**
+<br/>
+<p align="left">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,flask,django,nodejs,react,flutter&theme=dark" /></a>
+</p>
+
+**Data & ML**
+<br/>
+<p align="left">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mongodb,sqlite,firebase,jenkins,git,linux&theme=dark" /></a>
+</p>
+
+**Security & Reversing**
+<br/>
+`Ghidra` `IDA Pro` `YARA` `Wireshark` `Volatility` `Emotet/DarkSide Analysis` `Hyperledger Fabric`
+
+---
+
+### 📈 Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush20001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Piyush20001&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+</div>
+
+<div align="center">
+
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush20001&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+
+</div>
+
+<!-- TROPHY -->
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Piyush20001&theme=onestar&no-bg=true&no-frame=true&column=6&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyush20001/Piyush20001/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piyush20001/Piyush20001/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Piyush20001/Piyush20001/output/github-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%" />
+
+</div>
