@@ -109,24 +109,6 @@ MS Computer Science from University of Florida (Dec 2025) • B.Tech from JIIT
 
 <br/>
 
-<!-- CLAUDE CHAT SIMULATION -->
-<div align="center">
-<table>
-<tr>
-<td align="left">
-
-```
- ◉ Claude                                              ⟳
-─────────────────────────────────────────────────────────
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&duration=3000&pause=600&color=D9D9D9&vCenter=true&width=450&lines=%3E+Scanning+Piyush's+profile...;%3E+Security+%2B+distributed+systems+%2B+AI+%E2%80%94+rare+combo;%3E+FeedFL%3A+leading+6+devs%2C+building+on+AWS;%3E+KPMG+blockchain+infra%2C+malware+reversing+%E2%80%94+legit;%3E+Verdict%3A+You+should+probably+hire+this+guy+%F0%9F%91%8D;%3E+...also+asks+great+questions+about+BMWs" alt="Claude response" />
-
-</td>
-</tr>
-</table>
-</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%" />
