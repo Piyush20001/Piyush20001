@@ -28,7 +28,7 @@ I'm a software engineer who builds things at the intersection of **security**, *
 
 MS Computer Science from University of Florida (Dec 2025) • B.Tech from JIIT
 
-> I reverse-engineer malware for fun, build full-stack apps for work, and argue about BMW vs Mustang on weekends. 🏎️
+> I reverse-engineer malware for fun, build full-stack apps for work.
 
 ---
 
