@@ -23,7 +23,7 @@
 I'm a software engineer who builds things at the intersection of **security**, **distributed systems**, and **AI**. Currently splitting my time between two roles:
 
 - 🔬 **Data Researcher @ OHSL** — Working on [TELESYNERGY](https://github.com/Piyush20001), an AI-powered telemedicine system. NLP, biomedical informatics, and digital health ecosystems.
-- 📱 **Team Lead @ FeedFL — Leading a 7-person team building a nonprofit food provider discovery app with LLM-powered resource matching. Flutter, Supabase, LLM Integration.
+- 📱 **Team Lead @ FeedFL** — Leading a 7-person team building a nonprofit food provider discovery app with LLM-powered resource matching. Flutter, Supabase, LLM Integration.
 - 🏢 **Previously @ KPMG Global** — Optimized Hyperledger Fabric blockchain infrastructure.
 
 MS Computer Science from University of Florida (Dec 2025) • B.Tech from JIIT
