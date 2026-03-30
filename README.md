@@ -92,7 +92,7 @@ MS Computer Science from University of Florida (Dec 2025) • B.Tech from JIIT
 <!-- TROPHY -->
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Piyush20001&theme=onestar&no-bg=true&no-frame=true&column=6&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=Piyush20001&theme=onestar&no-bg=true&no-frame=true&column=6&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
