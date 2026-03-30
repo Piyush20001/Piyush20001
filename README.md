@@ -78,21 +78,23 @@ MS Computer Science from University of Florida (Dec 2025) • B.Tech from JIIT
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Piyush20001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<!-- OPTION A: GitHub Profile Summary Cards (reliable, no self-hosting needed) -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush20001&theme=github_dark" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Piyush20001&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
 </div>
 
 <div align="center">
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush20001&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyush20001&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyush20001&theme=github_dark" />
 
 </div>
 
 <!-- TROPHY -->
 <div align="center">
 
-[![trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=Piyush20001&theme=onestar&no-bg=true&no-frame=true&column=6&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=Piyush20001&theme=onestar&no-bg=true&no-frame=true&column=6&margin-w=15)](https://github.com/lucthienphong1120/github-trophies)
 
 </div>
 
