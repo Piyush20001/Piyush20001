@@ -1,118 +1,129 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=750&height=90&lines=Hey%2C+I'm+Piyush+%F0%9F%91%8B;Software+Engineer+%7C+Security+Researcher+%7C+Builder" alt="Typing SVG" />
+# Hey, I'm Piyush 👋
+
+### AI Automation Analyst · Software Engineer · Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Automating+workflows+%40+Epoca+International;Building+AI+agents%2C+tools%2C+and+integrations;Security+background.+Systems+mindset." alt="Automating workflows at Epoca International. Building AI agents, tools, and integrations." />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=600&lines=Building+FeedFL+%40+UF+%F0%9F%90%8A;Researching+AI+%2B+Biomedical+Informatics+%40+OHSL;Ex-KPMG+Global+%7C+Blockchain+Optimization;Can+talk+engines+as+passionately+as+code+%F0%9F%8F%8E%EF%B8%8F)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://linkedin.com/in/piyush-kumar-mishra-a32599111"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:piyushkumardelhi10@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://discord.gg/DarkEnvy"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+<a href="https://linkedin.com/in/piyush-kumar-mishra-a32599111"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:piyushkumardelhi10@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://discord.gg/DarkEnvy"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 <img src="https://komarev.com/ghpvc/?username=Piyush20001&style=flat-square&color=58A6FF" alt="Profile views" />
 
 </div>
 
 ---
 
-### 🧠 About
+## 🧠 About me
 
-I'm a software engineer who builds things at the intersection of **security**, **distributed systems**, and **AI**. Currently splitting my time between two roles:
+I'm a **software engineer** currently working as an **AI Automation Analyst at Epoca International**. I work with teams to understand their workflows, identify where manual work slows them down, and build **AI-powered tools, agents, and automations** to help.
 
-- 📱 **Team Lead @ FeedFL** — Leading a 7-person team building a nonprofit food provider discovery app with LLM-powered resource matching. Flutter, Supabase, LLM Integration.
-- 🔬 **Data Researcher @ OHSL** — Working on [TELESYNERGY](https://github.com/Piyush20001), an AI-powered telemedicine system. NLP, biomedical informatics, and digital health ecosystems.
-- 🏢 **Previously @ KPMG Global** — Optimized Hyperledger Fabric blockchain infrastructure.
+My work spans **workflow discovery, solution design, development, integrations, and testing**. I'm interested in making AI useful beyond the chat window by connecting it to the systems, data, and processes people already rely on.
 
-MS Computer Science from University of Florida (Dec 2025) • B.Tech from JIIT
+My background in **security, distributed systems, and applied AI** shapes how I approach these problems: understand the system, question the assumptions, and build something people can trust.
 
-> I reverse-engineer malware for fun, build full-stack apps for work.
+> I reverse-engineer malware for fun, build software for work, and can talk engines as passionately as code.
 
 ---
 
-### ⚙️ Tech Stack
+## 🛠️ What I'm working on
 
-**Languages**
-<br/>
-<p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,cpp,c,solidity,php&theme=dark" /></a>
-</p>
-
-**Backend & Infrastructure**
-<br/>
-<p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,flask,django,nodejs,react,flutter&theme=dark" /></a>
-</p>
-
-**AI / ML & Agents**
-<br/>
-<p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" /></a>
-</p>
-<p align="left">
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
-<img src="https://img.shields.io/badge/Qwen-7C3AED?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGLM-2563EB?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
-
-`Agentic AI` `LangChain` `RAG Pipelines` `XGBoost` `DistilBERT` `NLP` `Ollama` `HuggingFace` `scikit-learn` `NumPy` `Pandas`
-
-**Databases & DevOps**
-<br/>
-<p align="left">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase,jenkins,git,linux,docker&theme=dark" /></a>
-</p>
-
-**Security & Reversing**
-<br/>
-`Ghidra` `IDA Pro` `YARA` `Wireshark` `Volatility` `Emotet/DarkSide Analysis` `Hyperledger Fabric`
+- **Workflow automation:** Finding repetitive work and building tools that reduce manual steps across everyday business processes.
+- **AI agents and reusable skills:** Developing task-focused agents, custom skills, and internal applications that help teams get work done.
+- **Integrations and data access:** Connecting AI tools to business applications, databases, and asset libraries through APIs and MCP.
+- **Reliable, usable systems:** Improving permissions, guardrails, interfaces, and testing, then refining solutions with feedback from the people using them.
 
 ---
 
-### 📈 Stats
+## 🧭 Experience & education
 
-<div align="center">
+**Epoca International · AI Automation Analyst**  
+Current focus: AI-powered workflow automation, agent development, internal tools, and integrations.
 
-<!-- OPTION A: GitHub Profile Summary Cards (reliable, no self-hosting needed) -->
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush20001&theme=github_dark" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Piyush20001&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+**FeedFL · Team Lead**  
+Led a 7-person team building a nonprofit food provider discovery app with LLM-powered resource matching using Flutter and Supabase.
 
-</div>
+**OHSL · Data Researcher**  
+Worked on TELESYNERGY, an AI-powered telemedicine system, with a focus on NLP, biomedical informatics, and digital health.
 
-<div align="center">
+**KPMG Global · Blockchain Infrastructure**  
+Optimized Hyperledger Fabric blockchain infrastructure.
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyush20001&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyush20001&theme=github_dark" />
-
-</div>
-
-<!-- TROPHY -->
-<div align="center">
-
-[![trophy](https://github-trophies.vercel.app/?username=Piyush20001&theme=onestar&no-bg=true&no-frame=true&column=6&margin-w=15)](https://github.com/lucthienphong1120/github-trophies)
-
-</div>
+🎓 **MS, Computer Science — University of Florida, December 2025**  
+🎓 **B.Tech — JIIT**
 
 ---
 
-<!-- SNAKE ANIMATION -->
+## ⚙️ Tech stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,go,cpp,c,solidity,php&theme=dark" alt="Python, TypeScript, JavaScript, Go, C++, C, Solidity, PHP" />
+
+### Applications & APIs
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,django,flutter&theme=dark" alt="React, Node.js, Flask, Django, Flutter" />
+
+### AI, agents & automation
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/MCP-58A6FF?style=flat-square&logoColor=white" alt="Model Context Protocol" />
+</p>
+
+`AI Agents` `Workflow Orchestration` `Custom Skills` `API Integrations` `MCP Servers`  
+`LangChain` `RAG Pipelines` `NLP` `Ollama` `Hugging Face`
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="PyTorch, TensorFlow, scikit-learn" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,git,jenkins,linux&theme=dark" alt="Azure, AWS, Google Cloud, Docker, Git, Jenkins, Linux" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,sqlite,firebase&theme=dark" alt="PostgreSQL, Supabase, MongoDB, SQLite, Firebase" />
+
+### Security & systems
+
+`Ghidra` `IDA Pro` `YARA` `Wireshark` `Volatility`  
+`Malware Analysis` `Reverse Engineering` `Hyperledger Fabric`
+
+---
+
+## 📈 GitHub activity
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush20001&theme=github_dark" alt="Piyush's GitHub contribution statistics" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Piyush20001&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Piyush's GitHub contribution streak" />
+
+</div>
+
+<br/>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyush20001/Piyush20001/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Piyush20001/Piyush20001/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Piyush20001/Piyush20001/output/github-snake.svg" />
+    <img alt="Snake animation of my GitHub contribution graph" src="https://raw.githubusercontent.com/Piyush20001/Piyush20001/output/github-snake.svg" />
   </picture>
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%" />
+**Interested in AI automation, agent development, or security? Let's connect.**
+
+<a href="https://linkedin.com/in/piyush-kumar-mishra-a32599111">LinkedIn</a> · <a href="mailto:piyushkumardelhi10@gmail.com">Email</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%" alt="" />
 
 </div>
