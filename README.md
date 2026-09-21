@@ -100,7 +100,7 @@ Optimized Hyperledger Fabric blockchain infrastructure.
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush20001&theme=github_dark" alt="Piyush's GitHub contribution statistics" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Piyush20001&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Piyush's GitHub contribution streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Piyush20001&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Piyush's GitHub contribution streak" />
 
 </div>
 
